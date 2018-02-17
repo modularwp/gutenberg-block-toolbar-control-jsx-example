@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Gutenberg Block: Toolbar Control JSX Example
- * Plugin URI: https://github.com/modularwp/gutenberg-block-static-jsx-example
+ * Plugin URI: https://github.com/modularwp/gutenberg-block-toolbar-control-jsx-example
  * Description: This is an example of a Gutenberg block with an alignment toolbar control in the block control area. Built with JSX and ES6.
  * Author: ModularWP
  * Author URI: https://modularwp.com/
